@@ -1,3 +1,4 @@
 # git-task
 Hi, This is Denila doing my Bachelors at NHCE, Bangalore.
-Super exited to do this course!!
+
+Super exited to be part of the 30 Days of Web Developementdo course!!
